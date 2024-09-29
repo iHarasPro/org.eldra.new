@@ -1,0 +1,5 @@
+title = 'The Realm of the Elder Dragons'
+languageCode = 'en-us'
+baseURL = 'https://eldra.org'
+copyright = 'İbrahim Haras, Onur Can Şen'
+disableHugoGeneratorInject = true
