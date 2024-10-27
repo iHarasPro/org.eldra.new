@@ -6,6 +6,7 @@ disableHugoGeneratorInject = true
 # hehe
 # hehe2
 # heheX
+# heheS
 [security]
 [security.exec]
 allow = ['^rst2html$']
