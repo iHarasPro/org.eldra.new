@@ -5,8 +5,9 @@ copyright = 'İbrahim Haras, Onur Can Şen'
 disableHugoGeneratorInject = true
 # hehe
 # hehe2
-# heheX
 # heheS
+# heheE
+# heheX
 [security]
 [security.exec]
 allow = ['^rst2html$']
