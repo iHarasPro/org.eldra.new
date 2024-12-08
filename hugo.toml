@@ -16,6 +16,7 @@ disableHugoGeneratorInject = true
 #1345346
 #3123123
 #love2dsogood
+#huehue
 [security]
 [security.exec]
 allow = ['^rst2html$']
